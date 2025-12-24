@@ -38,4 +38,5 @@ MIT License
 
 👨‍💻 Author
 
-Your Name
+MOHAMMAD ALI
+HOMAIRA AKTER OYSHEE
