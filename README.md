@@ -1,6 +1,6 @@
 🛠️ Local Service Management System
 
-A web application that helps users find and book local service providers such as plumbers, electricians, and technicians.
+A web application that helps users find and book local service providers such as plumbers, teacher, cook, driver,doctor,electricians, and technicians.
 
 🚀 Features
 
@@ -14,11 +14,11 @@ Admin dashboard
 
 🏗️ Tech Stack
 
-Frontend: HTML, CSS, JavaScript
+Frontend: HTML, CSS,Bootstrap, JavaScript
 
-Backend: Node.js / Java / Python
+Backend:  PHP
 
-Database: MySQL / MongoDB
+Database: MySQL 
 
 ⚙️ Setup
 git clone https://github.com/your-username/local-service-management.git
@@ -31,10 +31,7 @@ frontend/
 backend/
 database/
 README.md
-
-📄 License
-
-MIT License
+ 
 
 👨‍💻 Author
 
